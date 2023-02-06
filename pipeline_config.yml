@@ -1,6 +1,16 @@
 nodes:
 - input.visual:
-    source: https://storage.googleapis.com/peekingduck/videos/wave.mp4
-- model.posenet
-- draw.poses
+    source: videoplayback (3).mp4
+- model.yolo:
+    detect: ["car", "motorcycle", "truck"]
+    score_threshold: 0.5
+- dabble.bbox_count
+- dabble.fps
+- dabble.statistics:
+    identity: count
+- draw.bbox:
+    show_labels: true
+- custom_nodes.draw.score
+- draw.legend:
+    show: ["fps"]
 - output.screen
