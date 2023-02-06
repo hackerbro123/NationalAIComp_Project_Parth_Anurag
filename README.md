@@ -1,7 +1,10 @@
 # NationalAIStudentChallenge_Project_Parth_Anurag
 
 
-https://user-images.githubusercontent.com/53868600/217019578-4fe99ebc-cc29-4c79-b21c-7f90325a58ef.mp4
+
+
+https://user-images.githubusercontent.com/53868600/217020486-cd1c1220-cfec-4c5e-a537-cca4a35b88dd.mp4
+
 
 
 AAVS - Aerial Autonomous Vehicle System
