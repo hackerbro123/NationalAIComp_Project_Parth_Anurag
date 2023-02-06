@@ -1,6 +1,8 @@
 # NationalAIComp_Project_Parth_Anurag
 
 AAVS - Aerial Autonomous Vehicle System
+====================================================================
+
 What are we trying to do?
 •	Our goal is to create an AI-based computer vision system to track vehicles. AAVS, our system, aims to be a general-purpose vehicle tracking system that could be used from parking lots to toll booths. With higher-feature versions, the system could even be used by police to detect vehicles and conduct vehicle detection without needing manual equipment or checking. AAVS aims to become a useful, integrated system that could make many facets of vehicle use more streamlined and safe.
 
