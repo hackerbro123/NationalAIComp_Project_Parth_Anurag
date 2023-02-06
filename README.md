@@ -1,4 +1,4 @@
-# NationalAIComp_Project_Parth_Anurag
+# NationalAIStudentChallenge_Project_Parth_Anurag
 
 AAVS - Aerial Autonomous Vehicle System
 ====================================================================
